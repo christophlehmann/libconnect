@@ -156,7 +156,7 @@ class DbisController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController
     }
 
     /**
-     * shows deatail view
+     * shows detail view
      */
     public function displayDetailAction()
     {
